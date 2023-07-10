@@ -1,7 +1,7 @@
 <h1 align="center">Hi!👋, I am Pedro</h1>
 <h3 align="center">About more</h3>
 
-- 🌱 Dev Front end
+- 🌱 Design UX
 - 👨‍💻 Visite meu [portifólio](https://brantes.github.io/portfolio/)
 - 📝 Estou sempre conectado no [LinkedIn](https://www.linkedin.com/in/brantes/)
 
