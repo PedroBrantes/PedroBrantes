@@ -5,12 +5,13 @@
 - 👨‍💻 Visite meu [portifólio](https://brantes.github.io/portfolio/)
 - 📝 Estou sempre conectado no [LinkedIn](https://www.linkedin.com/in/brantes/)
 
+<!--
 <div align="center">
   <a href="https://github.com/PedroBrantes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBrantes&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
-<!--
+
 **PedroBrantes/PedroBrantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
