@@ -1,11 +1,11 @@
 <h1 align="center">Hi!👋, I am Pedro</h1>
-<h3 align="center">About more</h3>
+<!-- <h3 align="center">About more</h3>
 
 - 🌱 Data Analyst
 - 👨‍💻 Visite meu [portifólio](https://brantes.github.io/portfolio/)
 - 📝 Estou sempre conectado no [LinkedIn](https://www.linkedin.com/in/brantes/)
 
-<!--
+
 <div align="center">
   <a href="https://github.com/PedroBrantes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBrantes&layout=compact&langs_count=7&theme=onedark"/>
